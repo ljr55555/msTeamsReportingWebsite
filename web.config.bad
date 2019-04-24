@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <system.webServer>
+	<customErrors mode="Off"/>
+        <defaultDocument>
+            <files>
+                <add value="winPublicTeams.html" />
+            </files>
+        </defaultDocument>
+    </system.webServer>
+</configuration>

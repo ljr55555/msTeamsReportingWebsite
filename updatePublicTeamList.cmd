@@ -1,0 +1,1 @@
+copy /y \\cwwapp695.windstream.com\f$\scripts\teams\genTeamsStats\winPublicTeams.html d:\inetpub\MSTeams\

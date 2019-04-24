@@ -1,0 +1,7 @@
+<?php
+	$TenantName = "tenant.onmicrosoft.com";
+	$Url = "https://tenant.sharepoint.com/sites/SPSiteName";
+	$UserName = 'userid@tenant.onmicrosoft.com';
+	$Password = '|>@s5\/\/0r|)';
+	$RedirectUrl = "https://tenant.sharepoint.com";
+?>

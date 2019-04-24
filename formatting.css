@@ -1,0 +1,37 @@
+body { font-size: 76%; font-family: Arial, sans-serif; color: #fcfcfc; background-color: #000000; padding: 10px 20px; background-image: url("1127-website-bkgd-20181106-v03.jpg");}
+h1 { font-size: 250%; color: #f34105; }
+h1 sup { font-size: 50%; }
+h2 { color: #f34105; font-size: 175%; }
+a { color: #84FFFF; }
+a:hover { text-decoration: none; }
+.hr hr { display: none; }
+form { margin: 10px 0; }
+table { width: 100%; border-collapse: collapse; margin: 1em 0; }
+thead {background-image: linear-gradient(to right, #5E1780, #FF1744); }
+thead th { color: #fff;}
+tbody th { text-align: left; }
+table th, table td { border: 0px solid #ddd; padding: 2px 5px; font-size: 100%; }
+tr:nth-child(even) {background-color: rgba(52,52,52,0.5);}
+pre { font-size: 130%; background: #f7f7f7; padding: 10px 10px; font-weight: bold; }
+.odd, .r1 { background: #333; }
+.even, .r2 { background: #eee; }
+.r3 { background: #ebebeb; }
+.search { font-weight:  bold; }
+#teamsUsageTable_filter{ margin: 10px 0; }
+
+dt { margin-top: 10px; font-weight: bold;  }
+dd { margin: 0;}
+.new { color: #f34105; text-transform: uppercase; font-size: 85%; margin-left: 3px; }
+
+form.quicksearch { padding: 10px; background: #f7f7f7; }
+form.quicksearch input { margin-left: 5px; width: 300px; }
+form.quicksearch img { vertical-align: middle; margin-left: 5px; }
+
+fieldset { border: 0px solid #ccc;}
+form input { font-size: 16px;}
+
+#footer { background: #333; color: #fff; padding: 10px; margin-top: 20px; }
+#footer a { color: #fff; }
+#footer span { margin: 0 2px; color: #666; }
+
+#search_input {width: 300px;}
